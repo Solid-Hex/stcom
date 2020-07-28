@@ -1,3 +1,7 @@
+<?php 
+//&copy; date removed
+//date_default_timezone_set('UTC');echo date("o");
+?>
 <!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="HandheldFriendly" content="true"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="format-detection" content="telephone=no"><meta name="description" itemprop="description" content="Solid Hex Front-End Developer"><meta name="keywords" itemprop="keywords" content="Solid Hex Front-End Developer"><title>Solid Hex — Front-End Developer</title><link rel="shortcut icon" type="image/png" href="./favicon.png"><link rel="stylesheet" type="text/css" media="all" href="./style.css"><link href="https://fonts.googleapis.com/css?family=Space+Mono" rel="stylesheet"><script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
                 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
                 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
